@@ -19,7 +19,7 @@ body {
 
 .container .bgMobile {
     filter: drop-shadow(0 2rem 0 #00000015);
-    margin: -150px 0 3rem 0;
+    margin: -130px 0 3rem 0;
     padding-right: 25px;
 }
 
